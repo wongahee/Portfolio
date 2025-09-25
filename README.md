@@ -35,13 +35,13 @@
 <br>
 <caption>Main page</caption>
 
-![1_1](./images/1_1.JPG)
+![1_1](./rdme_images/practice_pages.png)
 
 <br>
 
 <caption>아코디언 바 닫기</caption>
 
-![1_2](./images/1_2.JPG)
+![1_2](./rdme_images/1_1.JPG)
 - FAQ Title 클릭 시 아코디언 바 아래로 열림
 - Close Button을 통한 아코디언 바 닫기
 <br>
@@ -54,12 +54,12 @@
 <br>
 <caption>?? page</caption>
 
-![2_1](./images/2_1.JPG)
+![2_1](./rdme_images/2_1.JPG)
 
 <br>
 <caption>?? function</caption>
 
-![2_2](./images/2_2.png)
+![2_2](./rdme_images/2_2.png)
 
 
 <br>
