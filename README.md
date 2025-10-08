@@ -41,9 +41,10 @@
 
 <br>
 
-<caption>아코디언 바 닫기</caption>
+<caption>캡션</caption>
 
-![1_2](./rdme_images/1_1.JPG)
+![1_1](./rdme_images/1_1.JPG)
+![1_2](./rdme_images/1_2.JPG)
 - FAQ Title 클릭 시 아코디언 바 아래로 열림
 - Close Button을 통한 아코디언 바 닫기
 <br>
