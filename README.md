@@ -19,7 +19,7 @@
 ## 🎯 프로젝트 목록
 | No | Project | Path | Description |
 |------|--------------------|-----------|------|
-| 1 | 🎵 Portfolio Practice | [🔗 보기](./1-accordion-FAQ-menu) | Practice project from a web portfolio development training  |
+| 1 | 🎵 Portfolio Practice | [🔗 보기](./cozadan-practice) | Practice project from a web portfolio development training  |
 | 2 | 🎞 My Portfolio | [🔗 보기](./2-localStorage-basic-operations) | development of my own customized web portfolio |
 
 <br>
