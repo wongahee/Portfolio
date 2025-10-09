@@ -33,7 +33,7 @@
 - Hover, Click에 따른 CSS 스크롤 애니메이션 적용
 
 <br>
-<caption>- Main page</caption>
+<caption>🗨 Main Section</caption>
 <br>
 
 <p style="display: flex; justify-content: center; gap: 2%;">
@@ -45,20 +45,34 @@
 - 포트폴리오 다운로드 버튼
 - Nav 클릭 시 해당 Section으로 이동하는 스크롤 애니매이션
 
+<br>
+✅ Detail Function
 
 <br>
-<caption>- Detail Function</caption>
 <br>
+<caption>🗨 About Section</caption>
 
-![2](./rdme_images/2about.JPG)
-![3](./rdme_images/3do.JPG)
-![4](./rdme_images/4bgimg.JPG)
-![5](./rdme_images/5pf.JPG)
-![6](./rdme_images/6contact.JPG)
-
+<img src="./rdme_images/2about.JPG" alt="Practice Project" width="75%" />
 - SNS 링크
-- - main image 보이도록
+
+<br>
+
+<caption>🗨 About Section</caption>
+<p style="display: flex; justify-content: center; gap: 2%;">
+  <img src="./rdme_images/3do.JPG" alt="Practice Project" width="48%" />
+  <img src="./rdme_images/3_2" alt="My Portfolio" width="48%" />
+</p>
 - Skill Page Hover 시 UI 변경
+
+![4](./rdme_images/4bgimg.JPG)
+- main image 보이도록
+
+![5](./rdme_images/5pf.JPG)
+
+<p style="display: flex; justify-content: center; gap: 2%;">
+  <img src="./rdme_images/6contact.JPG" alt="Practice Project" width="48%" />
+  <img src="./rdme_images/6_2" alt="My Portfolio" width="48%" />
+</p>
 - Contact Page box 클릭 디자인
 
 ## 2. 🎞 My Portfolio
