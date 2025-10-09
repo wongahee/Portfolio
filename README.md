@@ -58,11 +58,17 @@
 <br>
 
 <caption>🗨 About Section</caption>
+
 <p style="display: flex; justify-content: center; gap: 2%;">
   <img src="./rdme_images/3do.JPG" alt="Practice Project" width="48%" />
-  <img src="./rdme_images/3_2" alt="My Portfolio" width="48%" />
+  <img src="./rdme_images/3_2.JPG" alt="My Portfolio" width="48%" />
 </p>
 - Skill Page Hover 시 UI 변경
+
+<br>
+<br>
+
+<caption>🗨 About Section</caption>
 
 ![4](./rdme_images/4bgimg.JPG)
 - main image 보이도록
@@ -71,7 +77,7 @@
 
 <p style="display: flex; justify-content: center; gap: 2%;">
   <img src="./rdme_images/6contact.JPG" alt="Practice Project" width="48%" />
-  <img src="./rdme_images/6_2" alt="My Portfolio" width="48%" />
+  <img src="./rdme_images/6_2.JPG" alt="My Portfolio" width="48%" />
 </p>
 - Contact Page box 클릭 디자인
 
