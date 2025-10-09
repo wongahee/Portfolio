@@ -57,8 +57,9 @@
 <caption>🗨 Do Section</caption>
 <br>
 
-<p style="display: flex; justify-content: center; gap: 2%;">
+<p>
   <img src="./rdme_images/3do.JPG" alt="What I Do" width="48%" />
+  <img src="./rdme_images/3_2.JPG" alt="What I Do_Hover" width="48%" />
 </p>
 
 - 마우스 Hover 시 박스 요소의 UI 색상 변경
@@ -82,8 +83,9 @@
 <caption>🗨 Contact Section</caption>
 <br>
 
-<p style="display: flex; justify-content: center; gap: 2%;">
+<p style="display: flex; justify-content: center;">
   <img src="./rdme_images/6contact.JPG" alt="Contact With Me" width="48%" />
+  <img src="./rdme_images/6_2.JPG" alt="Contact With Me_Click" width="48%" />
 </p>
 
 - Input 요소 클릭 시 색상 변경
