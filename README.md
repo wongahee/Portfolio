@@ -20,8 +20,8 @@
 # 🎯 프로젝트 목록
 | No | Project | Path | Description |
 |------|--------------------|-----------|------|
-| 1 | 🎵 Portfolio Practice | [🔗 보기](./cozadan-practice) | Practice project from a web portfolio development training  |
-| 2 | 🎞 My Portfolio | [🔗 보기](./) | Development of my own customized web portfolio |
+| 1 | 🎵 Portfolio Practice | [🔗 보기](./cozadan-practice) | Practice project from a web portfolio development training.  |
+| 2 | 🎞 My Portfolio | [🔗 보기](./) | Development of my own customized web portfolio. |
 
 <br>
 
@@ -37,8 +37,8 @@
 <br>
 
 <p style="display: flex; justify-content: center; gap: 2%;">
-  <img src="./rdme_images/1_1.JPG" alt="Practice Project" width="48%" />
-  <img src="./rdme_images/1_2.JPG" alt="My Portfolio" width="48%" />
+  <img src="./rdme_images/1_1.JPG" alt="Main_Frontend" width="48%" />
+  <img src="./rdme_images/1_2.JPG" alt="Main_Backend" width="48%" />
 </p>
 
 - Main 소개글 타이핑 애니매이션
@@ -49,7 +49,7 @@
 <caption>🗨 About Section</caption>
 <br>
 
-<img src="./rdme_images/2about.JPG" alt="Practice Project" width="80%" />
+<img src="./rdme_images/2about.JPG" alt="About Me" width="80%" />
 
 - 인터랙티브 요소 구현 (SNS 이동 버튼)
 
@@ -58,43 +58,39 @@
 <br>
 
 <p style="display: flex; justify-content: center; gap: 2%;">
-  <img src="./rdme_images/3do.JPG" alt="Practice Project" width="48%" />
-  <img src="./rdme_images/3_2.JPG" alt="My Portfolio" width="48%" />
+  <img src="./rdme_images/3do.JPG" alt="What I Do" width="48%" />
+  <img src="./rdme_images/3_2.JPG" alt="What I Do_Hover" width="48%" />
 </p>
 
-- 마우스 Hover 시 박스 UI 요소의 색상 변경
+- 마우스 Hover 시 박스 요소의 UI 색상 변경
 
 <br>
 <caption>🗨 Hero Image Section</caption>
 <br>
 
-<img src="./rdme_images/4bgimg.JPG" alt="Practice Project" width="80%" />
+<img src="./rdme_images/4bgimg.JPG" alt="Main Image" width="80%" />
 
-- 스크롤 시 Hero Image로 콘텐츠 전환
+- Hero Image로 스크롤 시 자연스러운 콘텐츠 전환
 
 <br>
 <caption>🗨 Portfolio Section</caption>
 <br>
 
-<img src="./rdme_images/5pf.JPG" alt="Practice Project" width="80%" />
+<img src="./rdme_images/5pf.JPG" alt="PortFolio" width="80%" />
 
-- main image 보이도록
 
 <br>
 <caption>🗨 Contact Section</caption>
 <br>
 
 <p style="display: flex; justify-content: center; gap: 2%;">
-  <img src="./rdme_images/6contact.JPG" alt="Practice Project" width="48%" />
-  <img src="./rdme_images/6_2.JPG" alt="My Portfolio" width="48%" />
+  <img src="./rdme_images/6contact.JPG" alt="Contact With Me" width="48%" />
+  <img src="./rdme_images/6_2.JPG" alt="Contact With Me_Click" width="48%" />
 </p>
 
-- Contact Page box 클릭 디자인
+- Input 요소 클릭 시 색상 변경
 
 ## 2. 🎞 My Portfolio
-
-✅ 기본 기능
-
 
 ## 👤 개발자 노트
 프론트엔드 개발 학습으로 브라우저 API부터 동적 UI까지 단계적 학습 완료
