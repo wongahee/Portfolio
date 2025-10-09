@@ -44,21 +44,22 @@
 - Main 소개글 타이핑 애니매이션
 - 포트폴리오 다운로드 버튼
 - Nav 클릭 시 해당 Section으로 이동하는 스크롤 애니매이션
-  
-- main image 보이도록
 
 
 <br>
-<caption></caption>
+<caption>- Detail Function</caption>
 <br>
 
-<caption>디자인</caption>
+![2](./rdme_images/2about.JPG)
+![3](./rdme_images/3do.JPG)
+![4](./rdme_images/4bgimg.JPG)
+![5](./rdme_images/5pf.JPG)
+![6](./rdme_images/6contact.JPG)
 
-![2](./rdme_images/2.JPG)
-![3](./rdme_images/3.JPG)
 - SNS 링크
-- About Page & Skill Page & PortFolio Page: Hover 시 UI 변경
-- contact page: box 클릭 디자인
+- - main image 보이도록
+- Skill Page Hover 시 UI 변경
+- Contact Page box 클릭 디자인
 
 ## 2. 🎞 My Portfolio
 
