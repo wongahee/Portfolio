@@ -1,8 +1,8 @@
 # 📃 Portfolio Practice Projects
-- **반응형 웹 구조 설계, UI Interaction 구현** 등 프론트엔드 주요 기능 학습 및 실습
-- 직접 디자인한 전용 포트폴리오 구현
+- **반응형 웹 구조 설계, UI Interaction 구현** 등을 활용한 프론트엔드 개발 및 주요 기능 학습
+- 직접 디자인한 My Portfolio 개발
 
-  *참고 교재: 코딩자율학습 HTML+CSS+자바스크립트
+  *참고 교재: 코딩자율학습 HTML +CSS +자바스크립트
 
 <br>
 
@@ -28,23 +28,25 @@
 ## 1. 🎵 Portfolio Practice
 
 ✅ 기본 기능
-- 전체 아코디언 바 닫기 버튼 생성
-- 클릭으로 FAQ 내용 토글
-- hover, click 시 부드러운 CSS 애니메이션 적용
+- **Skills, Portfolio, Contact** Section 포함
+- Sticky Navigation Bar, Hero Section
+- Hover, Click에 따른 CSS 스크롤 애니메이션 적용
 
 <br>
-<caption>Main page</caption>
+<caption>- Main page</caption>
 <br>
 
-<caption>캡션</caption>
+<p style="display: flex; justify-content: center; gap: 2%;">
+  <img src="./rdme_images/1_1.JPG" alt="Practice Project" width="48%" />
+  <img src="./rdme_images/1_2.JPG" alt="My Portfolio" width="48%" />
+</p>
 
-![1_1](./rdme_images/1_1.JPG)
-![1_2](./rdme_images/1_2.JPG)
-- Nav bar 상단 고정
-- Main 소개글 애니매이션
+- Main 소개글 타이핑 애니매이션
 - 포트폴리오 다운로드 버튼
+- Nav 클릭 시 해당 Section으로 이동하는 스크롤 애니매이션
+  
 - main image 보이도록
-- nav 클릭 시 해당 영역으로 이동
+
 
 <br>
 <caption></caption>
